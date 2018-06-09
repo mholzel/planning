@@ -1,0 +1,1 @@
+### Please visit [https://docs.holzel.io/planning/](https://docs.holzel.io/planning/) for the documentation. 
