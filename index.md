@@ -257,9 +257,5 @@ Using the above outlined approach, we are able to smoothly drive around the trac
 
 ![success](images/success.jpg)
 
-You can see the full video here:
-
-<video controls="controls" width=100%>
-  <source type="video/mp4" src="videos/result.mp4"></source>
-</video>
+You can see the full video [here](https://youtu.be/BXkqD1aoVpA).
 
