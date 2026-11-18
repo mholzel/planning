@@ -1,1 +1,1 @@
-### Please visit [https://docs.holzel.io/planning/](https://docs.holzel.io/planning/) for the documentation. 
+### Please visit [https://mholzel.github.io/planning/](https://mholzel.github.io/planning/) for the documentation. 
